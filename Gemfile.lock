@@ -46,7 +46,7 @@ GEM
     coffee-script (2.4.1)
       coffee-script-source
       execjs
-    coffee-script-source (1.9.1.1)
+    coffee-script-source (1.8.0)
     commonjs (0.2.7)
     devise (3.5.2)
       bcrypt (~> 3.0)
@@ -146,6 +146,7 @@ PLATFORMS
 
 DEPENDENCIES
   coffee-rails (~> 4.0.0)
+  coffee-script-source (= 1.8.0)
   devise
   font-awesome-rails
   jbuilder (~> 2.0)
